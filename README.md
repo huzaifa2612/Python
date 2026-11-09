@@ -1,27 +1,28 @@
+<h1 align="center">🐍 Python Learning Repository</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:56d8e4&height=210&section=header&text=Python%20Learning%20Repository&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=Concepts%20%7C%20Practice%20%7C%20Problem%20Solving&descSize=16&descAlignY=60" alt="Python Learning Repository banner" width="100%" />
+  <strong>Chapter-wise Python Programming, Hands-on Practice & Problem Solving</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10+" />
-  <img src="https://img.shields.io/badge/Repository-Learning%20%26%20Practice-18A6B8?style=for-the-badge" alt="Learning and practice repository" />
-  <img src="https://img.shields.io/badge/Status-Ongoing-667EEA?style=for-the-badge" alt="Ongoing" />
+  A growing collection of Python examples, coding exercises, and practical scripts covering programming fundamentals, data structures, functions, file handling, object-oriented programming, and more.
 </p>
 
 <p align="center">
-  A chapter-wise collection of Python examples, coding exercises, and practice problems developed while learning Python programming.
-  <br />
-  <strong>Learn a concept · Write code · Practise · Improve</strong>
+  <img src="https://img.shields.io/badge/PYTHON-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1B1F3B" alt="Python 3.10+" />
+  <img src="https://img.shields.io/badge/LEARNING-PRACTICE-18A6B8?style=for-the-badge&labelColor=1B1F3B" alt="Learning and practice" />
+  <img src="https://img.shields.io/badge/CODE-EXERCISES-3978C5?style=for-the-badge&logo=github&logoColor=white&labelColor=1B1F3B" alt="Code exercises" />
+  <img src="https://img.shields.io/badge/STATUS-ONGOING-20BFC7?style=for-the-badge&labelColor=1B1F3B" alt="Ongoing" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/huzaifa2612">GitHub Profile</a>
-  &nbsp; · &nbsp;
+  <a href="#about-this-repository">Overview</a>
+  &nbsp; • &nbsp;
+  <a href="#topics-covered">Topics</a>
+  &nbsp; • &nbsp;
+  <a href="#repository-structure">Structure</a>
+  &nbsp; • &nbsp;
   <a href="#getting-started">Getting Started</a>
-  &nbsp; · &nbsp;
-  <a href="#topics-covered">Topics Covered</a>
-  &nbsp; · &nbsp;
-  <a href="#repository-structure">Repository Structure</a>
 </p>
 
 ---
